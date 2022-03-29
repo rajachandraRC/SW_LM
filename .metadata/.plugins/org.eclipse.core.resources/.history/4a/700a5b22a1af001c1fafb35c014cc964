@@ -1,0 +1,7 @@
+package com.jiaxun.library.data;
+
+public interface Magazine {
+	
+	void write(String str);
+
+}

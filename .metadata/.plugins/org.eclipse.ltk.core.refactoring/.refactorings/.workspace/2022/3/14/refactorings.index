@@ -2,3 +2,8 @@
 1648581688455	Delete resource 'LMSSingleton'
 1648581695435	Delete resource 'Library'
 1648581740117	Delete resource 'LMS2'
+1648586567572	Delete resource 'LMSFactory'
+1648586646340	Delete resource 'LMSSingleton2'
+1648586772946	Delete resource 'LMSAdapter'
+1648586867098	Delete resource 'LMSBuilder'
+1648586887802	Rename Java project 'LMS2'
