@@ -1,2 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.jiaxun.library.users.user"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.users.Student"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.users.Admin"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.users.UserFactory"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.book.BookBuilder"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.book.Book"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.data.BookData"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.data.Magazine"/>
+    <fullyQualifiedTypeName name="com.jiaxun.library.data.MagazineAdapter"/>
+    <fullyQualifiedTypeName name="com.library.data.BookData"/>
+    <fullyQualifiedTypeName name="com.library.data.UserData"/>
+</qualifiedTypeNameHistroy>
