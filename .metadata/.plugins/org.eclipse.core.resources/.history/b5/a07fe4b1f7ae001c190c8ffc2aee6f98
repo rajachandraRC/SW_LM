@@ -1,0 +1,31 @@
+package com.jiaxun.library.book;
+
+public class BookBuilder {
+	
+	private String bookname;
+	private String author;
+	private String pubdate;
+	private int sumpagination;
+	public BookBuilder setBookname(String bookname) {
+		this.bookname = bookname;
+		return this;
+	}
+	public BookBuilder setAuthor(String author) {
+		this.author = author;
+		return this;
+	}
+	public BookBuilder setPubdate(String pubdate) {
+		this.pubdate = pubdate;
+		return this;
+	}
+	public BookBuilder setSumpagination(int sumpagination) {
+		this.sumpagination = sumpagination;
+		return this;
+	}
+	
+	public Book getBook() {
+		System.out.println(bookname + author + pubdate + sumpagination);
+		return new Book(bookname, author, pubdate, sumpagination);
+		
+	}
+}

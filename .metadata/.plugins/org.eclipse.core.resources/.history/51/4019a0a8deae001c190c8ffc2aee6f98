@@ -1,0 +1,11 @@
+package com.jiaxun.library.users;
+
+public class Admin implements user{
+
+	@Override
+	public void details() {
+		System.out.print("Admin Console loading");
+		
+	}
+	
+}

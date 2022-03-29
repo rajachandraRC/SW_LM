@@ -1,0 +1,18 @@
+package com.jiaxun.library.book;
+
+public class Book {
+	private String booknames;
+	private String authors;
+	private String pubdates;
+	private int sumpaginations;
+	
+	public Book(String booknames, String authors, String pubdates, int sumpaginations) {
+		super();
+		this.booknames = booknames;
+		this.authors = authors;
+		this.pubdates = pubdates;
+		this.sumpaginations = sumpaginations;
+	}
+	
+	
+}

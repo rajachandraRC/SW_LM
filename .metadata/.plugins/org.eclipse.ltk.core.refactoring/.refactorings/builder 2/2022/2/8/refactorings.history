@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 7 elements to &apos;TFTF/src&apos;&#x0A;- Original project: &apos;builder 2&apos;&#x0A;- Destination element: &apos;TFTF/src&apos;&#x0A;- Original elements:&#x0A;     Demo.java&#x0A;     Document.java&#x0A;     Image.java&#x0A;     ExportFormat.java&#x0A;     Text.java&#x0A;     Element.java&#x0A;     html&#x0A;- Update references to refactored element" description="Move elements" destination="=TFTF/src" element1="Demo.java" element2="Document.java" element3="Image.java" element4="ExportFormat.java" element5="Text.java" element6="Element.java" element7="html" files="6" flags="589830" folders="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1645154695463" units="0" version="1.0"/>
+</session>
