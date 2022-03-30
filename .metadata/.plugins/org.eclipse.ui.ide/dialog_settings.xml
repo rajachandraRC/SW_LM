@@ -15,6 +15,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="/Users/rc/E/LMSBuilder"/>
+			<item value="/Users/rc/E/LMSAdapter"/>
+			<item value="/Users/rc/E/Library/Design-patterns/doc"/>
+			<item value="/Users/rc/E/Library/Design-patterns/data"/>
 			<item value="/Users/rc/E/Library"/>
 			<item value="/Users/rc/E/LMS2"/>
 		</list>
